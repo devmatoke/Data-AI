@@ -154,23 +154,6 @@ Configure your preferred AI provider in the `.env` file.
 
 ## Development
 
-### Project Structure
-```
-Data-AI/
-|-- server/                 # Backend API
-|   |-- index.js           # Main server file
-|   |-- package.json       # Server dependencies
-|-- client/                # React frontend
-|   |-- src/
-|   |   |-- components/    # React components
-|   |   |-- App.js        # Main app component
-|   |   |-- index.js      # Entry point
-|   |-- public/           # Static files
-|   |-- package.json      # Client dependencies
-|-- uploads/              # User uploaded files
-|-- temp/                 # Generated files
-```
-
 ### Adding New Analysis Types
 
 To add new analysis types:
