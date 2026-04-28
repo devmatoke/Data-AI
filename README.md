@@ -1,3 +1,5 @@
+#DON'T TAKE ANYTHING YET, STILL COOKING
+
 # Data AI Platform
 
 A full-stack web application that allows users to upload datasets and perform AI-powered data analysis using either Python or Excel execution modes.
